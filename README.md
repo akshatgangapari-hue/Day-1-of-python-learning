@@ -1,1 +1,1 @@
-# Day-1-of-python-learning
+python-learning
